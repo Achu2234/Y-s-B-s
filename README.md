@@ -2,7 +2,8 @@
 
 <!--start: description-->
 
-**Upptime** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues. It's made with 💚 by your friends at [Koj](https://koj.co).
+**Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs** (https://t.me/Animemusicarchive6) Our TG Bot Community🤖🤖🤖🤖🤖🤖🤖
+Use and Share Our Bot. It's made with 💚 by your friends at [Achu](https://t.me/Amalbiju154).
 
 <!--end: description-->
 
