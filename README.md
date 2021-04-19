@@ -1,8 +1,3 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
 
-<!--start: description-->
-
-**Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs** (https://t.me/Animemusicarchive6) Our TG Bot Community🤖🤖🤖🤖🤖🤖🤖
-Use and Share Our Bot. It's made with 💚 by your friends at [Achu](https://t.me/Amalbiju154).
-
-<!--end: description-->
+This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
