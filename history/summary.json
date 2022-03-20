@@ -4,17 +4,17 @@
     "url": "https://t.me/YeageristMusic_bot",
     "icon": "https://favicons.githubusercontent.com/t.me",
     "slug": "yeagerist-music-streamer-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 533,
-    "timeWeek": 433,
-    "timeMonth": 1725,
-    "timeYear": 710,
+    "time": 752,
+    "timeDay": 8198,
+    "timeWeek": 1976,
+    "timeMonth": 1756,
+    "timeYear": 752,
     "dailyMinutesDown": {}
   }
 ]
